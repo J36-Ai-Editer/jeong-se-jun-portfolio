@@ -22,6 +22,7 @@ I am not simply interested in analyzing data. I am passionate about transforming
 
 ## Contact
 
+- Personal E-Mail: [aquairus0493@naver.com](mailto:aquairus0493@naver.com)
 - E-Mail: [sejun@toytron.ai.kr](mailto:sejun@toytron.ai.kr)
 - Instagram: <https://www.instagram.com/warm_as_june_>
 - Blog: <https://blog.naver.com/warmasjune-jsj>
@@ -268,7 +269,7 @@ Served as CEO and Lead Researcher, conducting National Data Office database anal
 
 ---
 
-## Recent AI Healthcare Projects
+## 2026 Recent Projects
 
 ### Smoking Behavior Data Analysis
 
@@ -324,6 +325,43 @@ Served as CEO and Lead Researcher, conducting National Data Office database anal
 - MongoDB
 - Pandas
 
+### Medical Image AI Model Development
+
+**Period:** 2026
+
+**Key Contributions**
+
+- X-ray medical image analysis
+- Computer vision model development
+- CNN-based medical AI practice
+- Model evaluation and improvement
+
+**Technologies**
+
+- X-ray
+- CNN
+- PyTorch
+- Medical AI
+
+### AI Model Serving & Web Service Deployment
+
+**Period:** 2026
+
+**Key Contributions**
+
+- AI model serving with FastAPI
+- Web service deployment planning
+- Docker-based deployment workflow
+- Model API and service architecture design
+
+**Technologies**
+
+- FastAPI
+- Docker
+- Python
+- Model Serving
+- Web Deployment
+
 ### Na No W: Infertility Prediction & Healthcare Platform
 
 **Period:** May 2026 - Present
@@ -358,6 +396,62 @@ Served as CEO and Lead Researcher, conducting National Data Office database anal
 - SHAP
 - DiCE
 - Anchor
+
+---
+
+## 2026 Competition & Hackathon Projects
+
+### MIND QUEST | MEDICAL HACK 2026
+
+AI-adaptive visual novel platform for early intervention in depressive symptoms among adolescents aged 13 to 18.
+
+**Keywords**
+
+- Adolescent mental health
+- CBT
+- Behavioral activation
+- Human-in-the-loop
+- School and counseling center linkage
+
+### Dopamin-Go | 2026 K-Digital Training Hackathon
+
+AI-based digital self-regulation healthcare platform for youth digital overdependence and daily recovery.
+
+**Keywords**
+
+- Digital overdependence
+- Self-regulation
+- Emotion and behavior pattern analysis
+- AI coaching
+- PWA MVP
+
+### D1V3 | Busan DIVE 2026 Hackathon
+
+Urban accessibility blind-spot analysis dashboard using public data from Haeundae-gu, Busan, including the N3XT prediction model and S1GN user indicator development.
+
+**Keywords**
+
+- Public data
+- Urban accessibility
+- Mobility-vulnerable users
+- Dashboard
+- N3XT prediction model
+- S1GN user indicators
+
+### Youth Policy Competition, Presidential Office
+
+Policy research and healthcare service proposal for building digital self-regulation infrastructure for young adults.
+
+**Keywords**
+
+- Youth policy
+- Digital self-regulation
+- Healthcare service proposal
+- Public policy research
+
+### Earlier Projects Before 2025
+
+Public-interest, research, entrepreneurship, and policy projects completed before 2025 are summarized separately. Please refer to my Naver profile and official public records for earlier project details.
 
 ---
 
